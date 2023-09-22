@@ -1,0 +1,21 @@
+Desde já digo que mereço um 9. Talvez essa nota seja um pouco exagerada, mas vou justificar meu ponto. Antes de mais nada, quero dizer que minha nota não se baseia simplesmente nos meus códigos. Tenho consciência de que meus códigos não são perfeitos e sei que eles têm espaço para melhorias. No entanto, considerando a evolução dos meus trabalhos e meu aprendizado dos conceitos, vejo o quanto melhorei na programação. Antes de começar a faculdade, eu nunca sequer tinha programado e não sabia absolutamente nada sobre o assunto. Hoje, tenho conhecimento sobre quase todos os conceitos abordados em aula.
+
+No início, ao desenvolver os dígitos, consegui resolver com certa facilidade, apliquei alguns conceitos aprendidos em aula e consegui completá-lo. Porém, no trabalho da calculadora, foi um grande desafio para mim, pois mesmo após concluir o T1, eu ainda tinha pouco conhecimento. Cheguei a pensar que não conseguiria concluí-la, mas me esforcei e aprendi bastante sobre seleção e laços. Pouco a pouco, fui desenvolvendo minhas habilidades e melhorando cada vez mais.
+
+No Jogo das COR 1, novamente enfrentei um grande desafio, muito mais complicado em comparação com a calculadora. Tive que dar o meu máximo e aprendi e apliquei novos conceitos, como o uso de funções, strings, vetores e matrizes. Também melhorei em relação a laços e seleção e, mesmo com erros, consegui resolver esse desafio.
+
+Essa progressão continuou no Trabalho COR 3, onde aprendi muito sobre como usar funções, ponteiros, arquivos e estruturas. É incrível pensar o quanto você pode melhorar de um código para outro. No COR 1, fiz quase tudo na função main, enquanto no COR 3, modularizei mais. Porém, mais tarde, descobri que cometi erros, o que foi meio estranho para mim, pois achava que tinha melhorado bastante. Entendo que o professor fez isso para me ajudar a corrigir os erros apontados.
+
+Por fim, chegou o Trabalho Final, onde apliquei todos os conceitos solicitados. Além de corrigir meus erros anteriores, apontados pelo professor, melhorei a modularização, aprendi coisas novas e percebi a importância de um código bem escrito. Comparado aos meus códigos anteriores, o Trabalho Final foi surpreendentemente melhor, mais legível, compreensível e sem erros grotescos.
+
+Em resumo:
+
+No T1, tive uma ideia do que é programação.
+No T2, fui introduzido às funções e aprendi o básico de laços e seleção.
+No T3, melhorei muito em relação a laços, seleção e obtive uma melhor compreensão de funções. Aprendi sobre vetores, matrizes e strings.
+No T4, tive uma experiência desafiadora. Melhorei a modularização, aprendi novos conceitos como estruturas, arquivos e ponteiros. Porém, descobri que ainda cometi erros.
+No T5, reuni tudo o que aprendi ao longo da jornada anterior e melhorei em praticamente todos os aspectos: arquivos, estruturas, strings, laços, seleção e principalmente a modularização e legibilidade do código. Entendi que uma função deve ter um nome que represente o que ela faz e deve fazer exatamente o que seu nome diz. Também percebi que quanto mais legível o código, mais fácil é programar e compreender o código.
+
+Nessa autoavaliação, levei em consideração todos os aspectos pedidos, desenvolvi e aprendi todos os conceitos da disciplina, exceto alocação dinâmica, que ainda preciso melhorar.
+
+Desde já agradeço por esse semestre, Behur. Aprendi muitas coisas graças a você. Suas aulas cumprem aquilo que é proposto, e sua didática é super imersiva. Além disso, os textos no GitHub ajudaram muito a revisar os conceitos.
