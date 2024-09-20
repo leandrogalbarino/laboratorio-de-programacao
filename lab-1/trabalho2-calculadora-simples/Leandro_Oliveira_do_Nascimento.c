@@ -1,5 +1,5 @@
 #include <stdio.h>
-/// Nome: Leandro Oliveira do Nascimento
+
 float calculadora(char caracter, float numero, float numero2)
 {
 /// acho que este tá sobrando
